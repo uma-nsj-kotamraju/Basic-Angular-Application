@@ -1,0 +1,28 @@
+[
+ {
+  "id":1,
+  "name":"dallas location",
+  "street":"0123 mill dr",
+  "city":"dallas",
+  "state":"tx"
+ },
+ {
+  "id":2,
+  "name":"Arlington location",
+  "street":"0123 mill dr",
+  "city":"dallas",
+  "state":"tx"
+ }  ,{
+  "id":3,
+  "name":"Irving location",
+  "street":"0123 mill dr",
+  "city":"dallas",
+  "state":"tx"
+ }  ,{
+  "id":1,
+  "name":"Plano location",
+  "street":"0123 mill dr",
+  "city":"dallas",
+  "state":"tx"
+ }  
+]
